@@ -9,9 +9,9 @@
   <name>vsCodeMvnRelease</name>
   <description>vsCodeMvnRelease</description>
   <scm>
-    <connection>scm:git:https://github.com/Samitha-001/mavenReleaseProject.git</connection>
-    <developerConnection>scm:git:https://github.com/Samitha-001/mavenReleaseProject.git</developerConnection>
-    <url>https://github.com/Samitha-001/mavenReleaseProject.git</url>
+    <connection>scm:git:https://github.com/Samitha-001/vsCodeMvnRelease.git</connection>
+    <developerConnection>scm:git:https://github.com/Samitha-001/vsCodeMvnRelease.git</developerConnection>
+    <url>https://github.com/Samitha-001/vsCodeMvnRelease.git</url>
   </scm>
   <distributionManagement>
     <repository>
